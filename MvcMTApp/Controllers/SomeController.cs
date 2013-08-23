@@ -132,7 +132,7 @@ namespace MvcMTApp.Controllers
                 //db stuff
                 bool b = db.TableExists<Books>();
                 //book = db.QuerySingle<Books>("select * from books where book_id=@0", 1);
-                book = db.Get<Books>(1); /
+                book = db.Get<Books>(1);
             }
 
 
