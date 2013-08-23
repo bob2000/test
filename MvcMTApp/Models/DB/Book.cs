@@ -40,7 +40,10 @@ namespace MvcMTApp.Models.DB
     {
         public Books() { }
 
-        public long book_id { get; set; }
+        // w bazie jest bigint dlatego sqlfu walilo wyjatkiem rzutowania, 
+        // bo propercje mialem deklarowana jako int, 
+        // a w custom maperze rzutowalem recznie na int
+        public long book_id { get; set; } 
         public string book_name { get; set; }
         public string bookname { get; set; }
         public DateTime year { get; set; }
