@@ -1,0 +1,8 @@
+C:\Users\krzysztof.mrowinski\Documents\Visual Studio 2010\Projects\MvcMTApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\krzysztof.mrowinski\Documents\Visual Studio 2010\Projects\MvcMTApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\krzysztof.mrowinski\Documents\Visual Studio 2010\Projects\MvcMTApp\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\krzysztof.mrowinski\Documents\Visual Studio 2010\Projects\MvcMTApp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\krzysztof.mrowinski\Documents\Visual Studio 2010\Projects\MvcMTApp\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\krzysztof.mrowinski\Documents\Visual Studio 2010\Projects\MvcMTApp\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\krzysztof.mrowinski\Documents\Visual Studio 2010\Projects\MvcMTApp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\krzysztof.mrowinski\Documents\Visual Studio 2010\Projects\MvcMTApp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

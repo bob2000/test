@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>nspec4nunit</id>
+    <version>0.9.66.1</version>
+    <title>NSpec4NUnit</title>
+    <authors>Doug Day</authors>
+    <owners>Doug Day</owners>
+    <licenseUrl>https://raw.github.com/ddaysoftware/NSpec4NUnit/master/NSpecAddin/license.rtf</licenseUrl>
+    <projectUrl>https://github.com/ddaysoftware/NSpec4NUnit</projectUrl>
+    <iconUrl>http://nspec.org/images/logo.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Configures the project as a self-running NSpec test project with the NUnit GUI.  Also contains an addin for NUnit that performs the magic of integrating with NSpec.</description>
+    <summary>An NUnit runner for NSpec.</summary>
+    <releaseNotes />
+    <copyright />
+    <language />
+    <tags>NSpec NUnit unit test</tags>
+    <dependencies>
+      <dependency id="NUnit.Runners" />
+      <dependency id="NSpec" />
+    </dependencies>
+  </metadata>
+</package>
